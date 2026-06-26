@@ -1,35 +1,39 @@
-# ⚙️ CodeAlpha Task Automation Script
+⚙️ Task Automation Script
 
-## 📌 Overview
-This project automates the process of moving JPG image files from a source folder to a destination folder using Python. It demonstrates automation through file and folder operations.
+Overview
 
-## ✨ Features
+Task Automation Script is a Python application designed to automate the movement of JPG image files from one folder to another. It simplifies repetitive file management tasks using Python's built-in libraries.
+
+Features
+
 - Automatic JPG file detection
 - File transfer automation
-- Automatic destination folder creation
+- Destination folder creation
 - Fast and efficient execution
+- Console-based operation
 
-## 🛠 Technologies Used
+Technologies Used
+
 - Python 3
 - os Module
 - shutil Module
 
-## ▶️ How to Run
+Project Structure
+
+- "move_images.py" – Main application
+
+How to Run
+
 1. Install Python 3.
-2. Place JPG files inside the source folder.
+2. Place JPG files in the source folder.
 3. Run:
-```bash
+
 python move_images.py
-```
 
-## 📷 Sample Output
-```
-TASK AUTOMATION COMPLETED
+Learning Outcomes
 
-3 JPG files moved successfully.
-```
+This project demonstrates file handling, folder management, loops, conditional statements, and automation using Python.
 
-## 👨‍💻 Author
-**Surya Prakash**
+Author
 
-CodeAlpha Python Programming Internship
+Surya Prakash
